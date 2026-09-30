@@ -57,3 +57,4 @@ library(patchwork)
  install.packages("patchwork")
 
  grafico_invierno + grafico_verano
+
