@@ -6,16 +6,5 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links:
-    - text: LinkedIn
-      href:
-    - text: GitHub
-      href:
-    - text: Email
-      href: mailto:ibvilches@uc.cl
-    - text: ORCID
-      href:
-    - text: Google Scholar
-      href:
 
 ---
