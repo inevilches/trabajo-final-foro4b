@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "wue-lettuce-atacama-desert-test"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - now.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
